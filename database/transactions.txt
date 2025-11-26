@@ -1,0 +1,8 @@
+2025-11-25,Expense,Shopping,5000000,grocery shopping
+2025-11-25,Income,Salary,7000000,salary 
+2025-11-25,Income,Investment,1000000,gift amount
+2025-11-25,Expense,Food,100000,biryani and cold drink
+2025-11-25,Expense,Bills,200000,electricity
+2025-11-26,Expense,Health,200000,Doctor fees
+2025-11-26,Income,Freelance,1000000,freelance
+2025-11-26,Expense,Transport,50000,Transport
